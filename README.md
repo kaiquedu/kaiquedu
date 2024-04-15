@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaiquedu_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiqueedpereira/)
 
-![Kaique GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquedu&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquedu&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
